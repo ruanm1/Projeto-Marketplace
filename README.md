@@ -61,16 +61,7 @@ $ mvn javafx:run
 - Registro de vendas e compras.
 - Relatórios detalhados sobre o inventário e vendas.
 
-## 📌 Próximos Passos
 
-- Implementar autenticação de usuários.
-- Melhorar o design da interface gráfica.
-- Adicionar funcionalidades de carrinho de compras e pagamentos online.
 
-## 🤝 Contribuindo
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma `Issue` ou enviar um `Pull Request`.
-
----
-
-Desenvolvido por [Arthur Vasconcelos](https://github.com/4rthurdev).
+Desenvolvido por Ruan Montenegro, Caio Roberto e Juan Wagner
